@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+## E-Commerce
 # Secure E-Commerce Engine with Checkout Sandbox
 
 **Developer:** Fatima Nahid · **Stack:** MERN (MongoDB, Express, React with Vite, Node.js)
@@ -127,4 +127,3 @@ npm run dev            # Development app boots at http://localhost:5173
 Storefront layout architecture (header fields, category navigation elements, dynamic product layouts, and footer cards) inspired by Peter Kimanzi's design concepts. UI elements, core React components, and API wiring written completely from scratch.
 =======
 # TechMart
->>>>>>> 5c8e887eec4d3ec74e10f27c8d5008c8f273fcd3
